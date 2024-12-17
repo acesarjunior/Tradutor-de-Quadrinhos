@@ -1,2 +1,2 @@
 # Tradutor-de-Quadrinhos
-Comics and Manga Translator - English to Portuguese (So Far)
+Comics and Manga Translator using Deep Learning - English to Portuguese (So Far)
